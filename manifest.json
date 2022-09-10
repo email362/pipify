@@ -1,0 +1,12 @@
+{
+    "name": "Pipify Demo",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_title": "Click to create PiP"
+    },
+    "permissions": ["activeTab", "scripting"],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
