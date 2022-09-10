@@ -4,3 +4,7 @@ This Chrome extension is an extremely lightweight way to create picture-in-pictu
 
 # Usage
 After the extension is installed, simply press the Pipify Icon to toggle picture-in-picture on/off.
+
+
+# ToDo
+- Make it work with Amazon Prime Video
