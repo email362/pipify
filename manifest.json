@@ -1,9 +1,9 @@
 {
-    "name": "Pipify Demo",
+    "name": "Pipify",
     "version": "1.0",
     "manifest_version": 3,
     "action": {
-      "default_title": "Click to create PiP"
+      "default_title": "Click to toggle PiP"
     },
     "permissions": ["activeTab", "scripting"],
     "background": {
